@@ -30,9 +30,11 @@ Briefly describe what this project is about.
 - [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
 - [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
 
+<div align="center">
  <div style="display: flex; gap: 16px;">
   <img width="400" alt="stylenest1" src="https://github.com/user-attachments/assets/31f4710e-e283-4d8e-b51f-85fc39f89c8f" />
   <img width="400" alt="stylenest2" src="https://github.com/user-attachments/assets/8f5a32ba-a8b3-4d99-abc9-3ceecb99defc" />
+ </div>
 </div>
 
 ### Abstractly - A responsive marketing website
