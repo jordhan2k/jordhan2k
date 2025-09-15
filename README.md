@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Jordan
+
+Welcome to my GitHub profile! I'm a Frontend Developer.
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript / TypeScript
+- **Frameworks:** React / Next.js / React Native
+- **Styling:** CSS / TailwindCSS / Styled Components
+- **Backend:** REST APIs / WebSockets / MongoDB
+
+## 🚀 Featured Projects
 
 <!--
-**jordhan2k/jordhan2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Copy & fill this template for each project:
+### [Project Name](project_repo_url)
+**Description:**
+Briefly describe what this project is about.
 
-Here are some ideas to get you started:
+**Tech Stack:**
+- List main technologies used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Links:**
+- [Code](project_repo_url)
+- [Live Demo](demo_url)
 -->
+
+### Abstractly - A responsive marketing website built with Next and TailwindCSS
+
+- [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
+- [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
+
+
+
+
+
+
+
+
+
+
+
+## 📫 Get in Touch
+
+- Email: dzunght.dev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dzunght)
+
+Thanks for stopping by! Feel free to explore my repositories and connect if you want to collaborate or just say hi.
