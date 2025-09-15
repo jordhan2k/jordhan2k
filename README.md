@@ -30,6 +30,12 @@ Briefly describe what this project is about.
 - [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
 - [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
 
+<div align="center">
+  <img src="./marketing_demo.gif" alt="Abstractly Animated Demo Thumbnail" width="400">
+</div>
+
+  
+
 
 
 
