@@ -25,14 +25,30 @@ Briefly describe what this project is about.
 - [Live Demo](demo_url)
 -->
 
-### Abstractly - A responsive marketing website built with Next and TailwindCSS
+### StyleNest - A responsive e-commerce website
+
+- [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
+- [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
+
+ <div style="display: flex; gap: 16px;">
+  <img width="400" alt="stylenest1" src="https://github.com/user-attachments/assets/31f4710e-e283-4d8e-b51f-85fc39f89c8f" />
+  <img width="400" alt="stylenest2" src="https://github.com/user-attachments/assets/8f5a32ba-a8b3-4d99-abc9-3ceecb99defc" />
+</div>
+
+### Abstractly - A responsive marketing website
 
 - [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
 - [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6" alt="Abstractly Animated Demo Thumbnail" width="400">
+  <img src="https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6" alt="Abstractly Animated Demo Thumbnail" width="800">
 </div>
+
+
+### Design system - A simple design system showcased with Storybook
+
+- [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/docs)
+- Live Demo: [Storybook link](https://689bf8f7f7ceed17b33eafed-zsduhfhxcv.chromatic.com/?path=/docs/components-checkbox--docs)
 
 <!--
   ![abstractly_demo](https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6)
