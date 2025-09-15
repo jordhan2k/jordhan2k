@@ -31,10 +31,13 @@ Briefly describe what this project is about.
 - [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
 
 <div align="center">
-  <img src="./abstractly_demo.gif" alt="Abstractly Animated Demo Thumbnail" width="400">
+  <img src="https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6" alt="Abstractly Animated Demo Thumbnail" width="400">
 </div>
 
-  
+<!--
+  ![abstractly_demo](https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6)
+-->
+
 
 
 
