@@ -37,6 +37,8 @@ Briefly describe what this project is about.
  </div>
 </div>
 
+---
+
 ### Abstractly - A responsive marketing website
 
 - [Code](https://github.com/jordhan2k/gfe-portfolio/tree/main/apps/gfe-marketing)
@@ -46,6 +48,7 @@ Briefly describe what this project is about.
   <img src="https://github.com/user-attachments/assets/f872fda2-b2cf-430d-8b85-0dda71c7f1b6" alt="Abstractly Animated Demo Thumbnail" width="800">
 </div>
 
+---
 
 ### Design system - A simple design system showcased with Storybook
 
