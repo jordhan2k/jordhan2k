@@ -31,7 +31,7 @@ Briefly describe what this project is about.
 - [Live Demo](https://gfe-portfolio-marketing.vercel.app/)
 
 <div align="center">
-  <img src="./marketing_demo.gif" alt="Abstractly Animated Demo Thumbnail" width="400">
+  <img src="./abstractly_demo.gif" alt="Abstractly Animated Demo Thumbnail" width="400">
 </div>
 
   
