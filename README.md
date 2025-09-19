@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Frontend Developer.
 - **Styling:** CSS / TailwindCSS / Styled Components
 - **Backend:** REST APIs / WebSockets / MongoDB
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
 <!--
 Copy & fill this template for each project:
@@ -24,6 +24,17 @@ Briefly describe what this project is about.
 - [Code](project_repo_url)
 - [Live Demo](demo_url)
 -->
+
+### Hacker news - Discover the latest submissions in the Hacker News community.
+
+- [Code](https://github.com/jordhan2k/hackernews-client)
+- [Live Demo](https://hackernews-client-ygw8.vercel.app/)
+
+<div align="center">
+  <img width="800" alt="hackernews demo" src="https://github.com/user-attachments/assets/78054fdd-16e0-4584-a92d-8d08fe2ec7b0" />
+</div>
+
+---
 
 ### StyleNest - A responsive e-commerce website
 
